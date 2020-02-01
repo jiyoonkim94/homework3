@@ -107,6 +107,7 @@ thead tr:first-child {
 }
 
 footer{
+  min-height: 60px;
   position:fixed;
   left:0px;
   bottom:0px;
